@@ -14,7 +14,7 @@ int main(){
 	}
 	
 	else{
-		cout<<"not a palindrom";
+		cout<<"not  a  Palindrom";
 	}	
 }
 

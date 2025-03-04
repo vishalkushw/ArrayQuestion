@@ -5,7 +5,7 @@ int main(){
 	int min=arr[0];
 	cout<<"Enter 5 value ";
 	for (int i=0;i<5;i++){
-		cout<<"Enter value of index number "<<i<<" ";
+		cout<<"Enter Value of index number "<<i<<" ";
 		cin>>arr[i];
 	}
 	for(int i=0;i<5;i++){

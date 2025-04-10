@@ -8,7 +8,7 @@ int main(){
 	cin>>n;
 	int array[n];
 	for(int i=0;i<n;i++){
-		cout<<"enter your number of index "<<i<<" : ";
+		cout<<"Enter your number of index "<<i<<" : ";
 		cin>>array[i];
 	}
 	

@@ -11,5 +11,5 @@ int main(){
 		mx=arr[i];
 	}
 	}
-	cout<<"Maximum value is : "<<mx;
+	cout<<"Maximum Value is : "<<mx;
 }

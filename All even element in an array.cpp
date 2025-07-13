@@ -4,7 +4,7 @@
 using namespace std ;
 int main(){
 	int n ,count=0;
-	cout<<"Enter your range : ";
+	cout<<"Enter Your Range : ";
 	cin>>n;
 	int array[n];
 	

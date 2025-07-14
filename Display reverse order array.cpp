@@ -9,7 +9,7 @@ int main(){
 	int array[n];
 	
 	for(int i=0;i<n;i++){
-		cout<<"Enter your number of index "<<i <<" : ";
+		cout<<"Enter Your number of index "<<i <<" : ";
 		cin>>array[i];
 	}
 	cout<<endl;
